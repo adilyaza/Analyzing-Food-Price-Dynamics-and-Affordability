@@ -1,7 +1,8 @@
 # Analyzing Food Price Dynamics and Affordability: 
 ## A Case Study of the UN World Food Programme Price Monitoring
 
-### Tableau [Dashboards and a Storyboard](https://public.tableau.com/views/UNWFPCaseStudyAnalyzingFoodPriceDynamicsandAffordability/WFPMonitoringDashboard?:display_count=n&:origin=viz_share_link)  
+### View project on [Tableau Public](https://public.tableau.com/views/UNWFPCaseStudyAnalyzingFoodPriceDynamicsandAffordability/WFPMonitoringDashboard?:display_count=n&:origin=viz_share_link) 
+
 
 The project is using the UN WFP [food price database](https://dataviz.vam.wfp.org/) to investigate how price and affordability of staple foods change across countries over time and their relationship with a country’s economic development, official inflation rate, and food availability. 
 
